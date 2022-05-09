@@ -1,4 +1,2 @@
-site_name: My Docs
-theme:
-  name: 'material'
-  favicon: 'img/favicon.ico'
+site_name: DevStream Docs
+theme: readthedocs
