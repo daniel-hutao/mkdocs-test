@@ -1,2 +1,9 @@
 site_name: DevStream Docs
 theme: material
+
+nav:
+  - 'index.md'
+  - 'test.md'
+  - Plugins:
+    - 'plugins/plugin1.md'
+    - 'plugins/plugin2.md'
