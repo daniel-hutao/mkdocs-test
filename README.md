@@ -1,8 +1,6 @@
 # Usage
 
 ```shell
-pip3 install mkdocs
-pip3 install -r requirements.txt
+pip3 install -r docs/requirements.txt
 mkdocs serve
 ```
-
